@@ -13,11 +13,7 @@ Documentation for the Folder Structure
 
 Practical Terminal Commands From Your Workstation
 
-```bash
-git pull; git add . ; git commit -m "initial commit " 
-git push;clear
-```
-Symbols/git_push.sh "living the dream"
+chmod +x Symbols/git_push.sh
 Symbols/git_push.sh "nginx push"
 
 
