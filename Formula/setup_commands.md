@@ -23,6 +23,9 @@
 5. **Verify Access**
     ```sh
     kubectl get pods -l app=frontend
+
+Due the deployment would create a unique pod make sure you can make this work
+
     kubectl exec -it <frontend-pod-name> -- curl http://backend-service:8080
     ```
 
